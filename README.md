@@ -8,4 +8,4 @@
 
 # Практика 4
 
--[Отчет по пр3](failuredetection.pdf).
+-[Отчет по пр4](failuredetection.pdf).
